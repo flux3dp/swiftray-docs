@@ -28,6 +28,7 @@ jobs:
           repository: flux3dp/swiftray
           ref: refs/heads/master
           ssh-key: ${{ secrets.SSH_PRIVATE }}
+          path: 'swiftray'
       # Runs a single command using the runners shell
       - name: Doxygen Action
         # You may pin to the exact commit or the version.
