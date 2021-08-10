@@ -55,6 +55,6 @@ jobs:
           # Allow an empty commit to be created
           allow_empty_commit: true
           # Build directory to deploy
-          build_dir: swiftray/docs
+          build_dir: swiftray/docs/html
         env:
           GITHUB_TOKEN: ${{ secrets.TOKEN }}
