@@ -55,4 +55,4 @@ jobs:
           # Allow an empty commit to be created
           allow_empty_commit: true
           # Build directory to deploy
-          build_dir: ./docs
+          build_dir: swiftray/docs
