@@ -1,0 +1,23 @@
+var searchData=
+[
+  ['n_363',['N',['../class_controls_1_1_transform.html#a95e2f5fd36ab7ff07664f39bb95b28fba8d9c307cb7f3c4a32822a51922d1ceaa',1,'Controls::Transform']]],
+  ['name_364',['name',['../struct_machine_settings_1_1_machine_set.html#ad427dd861edf7912da6da908307885b5',1,'MachineSettings::MachineSet::name()'],['../struct_preset_settings_1_1_param.html#a894e0eddfe8a652f89b29e642b76c2ba',1,'PresetSettings::Param::name()'],['../struct_preset_settings_1_1_preset.html#a380e97bd84eadcba0c152dc5b0623ae2',1,'PresetSettings::Preset::name()'],['../class_layer.html#ab7c6ac9e9099ef7e59c986b8b1434440',1,'Layer::name()']]],
+  ['name_5f_365',['name_',['../class_s_v_g_node.html#a5cf3e47b828941c216b3b8bf06cacf6e',1,'SVGNode']]],
+  ['ne_366',['NE',['../class_controls_1_1_transform.html#a95e2f5fd36ab7ff07664f39bb95b28fbadc33066c3993e0d50896e533fd692ce0',1,'Controls::Transform']]],
+  ['new_2dmachine_2ddialog_2ecpp_367',['new-machine-dialog.cpp',['../new-machine-dialog_8cpp.html',1,'']]],
+  ['new_2dmachine_2ddialog_2eh_368',['new-machine-dialog.h',['../new-machine-dialog_8h.html',1,'']]],
+  ['new_5fselections_5f_369',['new_selections_',['../class_commands_1_1_select_cmd.html#aea70610e681642f7724546ed76b1b0a6',1,'Commands::SelectCmd']]],
+  ['new_5fvalue_5f_370',['new_value_',['../class_commands_1_1_set_ref_cmd.html#a966a04507da8dadf96e84fff1fadc43b',1,'Commands::SetRefCmd::new_value_()'],['../class_commands_1_1_set_cmd.html#ab2873dc4cec9caf3bcbdd40f4de4c36b',1,'Commands::SetCmd::new_value_()']]],
+  ['newmachinedialog_371',['NewMachineDialog',['../class_new_machine_dialog.html',1,'NewMachineDialog'],['../class_new_machine_dialog.html#ac8d93f5b1d486f214554382ce734492f',1,'NewMachineDialog::NewMachineDialog()']]],
+  ['no_5fbasic_5fimpl_372',['NO_BASIC_IMPL',['../base-generator_8h.html#acaa259e52aa29ee440a1ebb6dfe80133',1,'base-generator.h']]],
+  ['nodeids_373',['nodeIds',['../class_s_v_g_style_selector.html#af6362f2f5c7a7ec86b9fac41b81d7873',1,'SVGStyleSelector']]],
+  ['nodenameequals_374',['nodeNameEquals',['../class_s_v_g_style_selector.html#a521e032707d8635bc005afa4328934cb',1,'SVGStyleSelector']]],
+  ['nodenames_375',['nodeNames',['../class_s_v_g_style_selector.html#a7f0c3badf378b293ce541c0d67d18bbb',1,'SVGStyleSelector']]],
+  ['nodetype_376',['NodeType',['../class_path_shape.html#af0abc8e7b0b62a3758f66bb9f5edf07d',1,'PathShape']]],
+  ['none_377',['None',['../class_shape.html#a359229718ec54cfac5980b883e3e4ea8a6adf97f83acf6453d4a6a4b1070f3754',1,'Shape']]],
+  ['none_378',['NONE',['../class_controls_1_1_transform.html#a95e2f5fd36ab7ff07664f39bb95b28fbab50339a10e1de285ac99d4c3990b8693',1,'Controls::Transform']]],
+  ['nonselectedfilledpaths_379',['NonSelectedFilledPaths',['../class_cache_stack_1_1_cache.html#a46264ef1244ac82059076023ccb08d7aaf663a6b059d189b367a01f680423d501',1,'CacheStack::Cache']]],
+  ['nonselectedpaths_380',['NonSelectedPaths',['../class_cache_stack_1_1_cache.html#a46264ef1244ac82059076023ccb08d7aad717fb2a83b3922f548dd0a2080e7fd5',1,'CacheStack::Cache']]],
+  ['nonzero_5ffill_5frule_5f_381',['nonzero_fill_rule_',['../struct_parser_1_1_inherited_style.html#a8a41dc9aab68adf5cb0261b6acf64f22',1,'Parser::InheritedStyle']]],
+  ['nw_382',['NW',['../class_controls_1_1_transform.html#a95e2f5fd36ab7ff07664f39bb95b28fba7f39ac71e81132daad44925b3bdfde5a',1,'Controls::Transform']]]
+];

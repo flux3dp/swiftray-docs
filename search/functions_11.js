@@ -1,0 +1,25 @@
+var searchData=
+[
+  ['rect_1295',['Rect',['../class_controls_1_1_rect.html#a5af28a7080745e9c716c73788c6b24ac',1,'Controls::Rect']]],
+  ['redo_1296',['redo',['../class_commands_1_1_base_cmd.html#a013c11ebdf105309aed4ae27484dd316',1,'Commands::BaseCmd::redo()'],['../class_commands_1_1_add_layer_cmd.html#ad06bb2beb739e00b10eab80cee445c22',1,'Commands::AddLayerCmd::redo()'],['../class_commands_1_1_remove_layer_cmd.html#a4df809931db2b7d8c4b31d5c9a5726c2',1,'Commands::RemoveLayerCmd::redo()'],['../class_commands_1_1_add_shape_cmd.html#a4fd18b239b8bc7db7fa422255d9f38af',1,'Commands::AddShapeCmd::redo()'],['../class_commands_1_1_remove_shape_cmd.html#aa13836acb180bfacfe6b1ac0f0a2c730',1,'Commands::RemoveShapeCmd::redo()'],['../class_commands_1_1_select_cmd.html#a0d7ccc067d6cd6f65515c395985eba9a',1,'Commands::SelectCmd::redo()'],['../class_commands_1_1_joined_cmd.html#ae0ecb5962d8c6585c93d17683ba1c579',1,'Commands::JoinedCmd::redo()'],['../class_commands_1_1_set_cmd.html#a010eac4a1baa1418fc7a92686f3f8d2b',1,'Commands::SetCmd::redo()'],['../class_commands_1_1_set_ref_cmd.html#a39382ace5afe8a890c9e92deb36970ad',1,'Commands::SetRefCmd::redo()'],['../class_document.html#a55a775164d34b00f74c4242ed952f676',1,'Document::redo()']]],
+  ['redocalled_1297',['redoCalled',['../class_canvas.html#acf15753b1fcbb8b3f94740ed474e10b9',1,'Canvas']]],
+  ['referencedsymbolorsvgcontext_1298',['ReferencedSymbolOrSvgContext',['../class_parser_1_1_referenced_symbol_or_svg_context.html#a4a13630a31c9f41f3c9b6079a23b8c01',1,'Parser::ReferencedSymbolOrSvgContext']]],
+  ['registerevents_1299',['registerEvents',['../class_base_container.html#a8e1b411ccf040405329c47630cbf8c13',1,'BaseContainer']]],
+  ['removelayer_1300',['removeLayer',['../class_document.html#abe3d31de4a324f2343930e9d62814a0e',1,'Document']]],
+  ['removelayer_1301',['RemoveLayer',['../namespace_commands.html#a5c2c7aa5983fea2f6d2dfcf982ebc3ff',1,'Commands']]],
+  ['removelayercmd_1302',['RemoveLayerCmd',['../class_commands_1_1_remove_layer_cmd.html#ac80774105f38834e0076c7597b363dd8',1,'Commands::RemoveLayerCmd']]],
+  ['removeselections_1303',['RemoveSelections',['../namespace_commands.html#aed2bd48ecc4243d797c5807a56afddca',1,'Commands']]],
+  ['removeshape_1304',['removeShape',['../class_layer.html#ad1ae0974129f00e9317e3ddda62ace12',1,'Layer']]],
+  ['removeshape_1305',['RemoveShape',['../namespace_commands.html#ae0aebe9b738b3229b29b7c6bdc129928',1,'Commands::RemoveShape(Layer *layer, const ShapePtr &amp;shape)'],['../namespace_commands.html#a698109bb732d15989d662804e7ad0831',1,'Commands::RemoveShape(const ShapePtr &amp;shape)']]],
+  ['removeshapecmd_1306',['RemoveShapeCmd',['../class_commands_1_1_remove_shape_cmd.html#aceedb14630db401497fd3a1cf901d363',1,'Commands::RemoveShapeCmd::RemoveShapeCmd(Layer *layer, const ShapePtr &amp;shape)'],['../class_commands_1_1_remove_shape_cmd.html#aa58e29dea679acea6b424e016de1223c',1,'Commands::RemoveShapeCmd::RemoveShapeCmd(const ShapePtr &amp;shape)']]],
+  ['removeshapes_1307',['RemoveShapes',['../namespace_commands.html#a86059e4141918590c1fecd036a5f5890',1,'Commands']]],
+  ['repeat_1308',['repeat',['../class_layer.html#a59a8bc112afadcf9d4f50de930e4b7a3',1,'Layer']]],
+  ['reset_1309',['reset',['../class_base_generator.html#adad664cea6fd7b4325c52f19bf4f520b',1,'BaseGenerator::reset()'],['../class_controls_1_1_transform.html#aabfe31d2185d525dfeb9aa815b69bfdf',1,'Controls::Transform::reset()']]],
+  ['resize_1310',['resize',['../class_canvas.html#aaa089fb9c5cc70e771d2fdc2f52339dc',1,'Canvas']]],
+  ['resizeevent_1311',['resizeEvent',['../class_layer_panel.html#a805c8fa4fddeb83a97344df4cf481f46',1,'LayerPanel']]],
+  ['resume_1312',['resume',['../class_base_job.html#aea68abc7a3b9f421cf316ec7445129a5',1,'BaseJob::resume()'],['../class_serial_job.html#a831287184f1e6a51c87591f9372128ba',1,'SerialJob::resume()']]],
+  ['root_1313',['root',['../class_parser_1_1_s_v_g_p_p_doc.html#ad06a3c86741a50e45bcaae089cce9a77',1,'Parser::SVGPPDoc']]],
+  ['rotatedbbox_1314',['rotatedBBox',['../class_shape.html#a0b10079591f4416577bac27f04cba2e9',1,'Shape']]],
+  ['rotation_1315',['rotation',['../class_controls_1_1_transform.html#a95d34ecf3bdf6c643ce286f782b00bdb',1,'Controls::Transform::rotation()'],['../class_shape.html#a43487988a446852c1d5efd9e7f1a5ce3',1,'Shape::rotation()']]],
+  ['ruler_1316',['Ruler',['../class_controls_1_1_ruler.html#ac7b60fd32a8f41b82337d3eac05f4bf2',1,'Controls::Ruler']]]
+];
